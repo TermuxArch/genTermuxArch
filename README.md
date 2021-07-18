@@ -1,2 +1,0 @@
-# genTermuxArch
-genTermuxArch
